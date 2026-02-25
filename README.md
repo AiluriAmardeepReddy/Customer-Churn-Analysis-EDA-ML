@@ -95,7 +95,10 @@ Customer-Churn-Analysis-EDA-ML/
 ├── Customer Churn Analysis.ipynb
 ├── customer_churn.csv
 ├── README.md
-
+## 📌 Repository Contents
+- `Customer Churn Analysis.ipynb` – Jupyter notebook with EDA and ML workflow  
+- `customer_churn.csv` – Dataset used for analysis  
+- `README.md` – Project documentation  
 
 ---
 
