@@ -90,3 +90,37 @@ After completing EDA, a **baseline Machine Learning model** was developed to val
 ---
 
 ## 📌 Project Structure
+Customer-Churn-Analysis-EDA-ML/
+│
+├── Customer Churn Analysis.ipynb
+├── customer_churn.csv
+├── README.md
+
+
+---
+
+## 🧠 Key Learnings
+- Importance of EDA before applying Machine Learning
+- Handling categorical data for ML models
+- Understanding evaluation metrics beyond accuracy
+- Building interpretable baseline ML models
+- Translating data insights into business understanding
+
+---
+
+## 🚀 Future Improvements
+- Try advanced models like Random Forest or XGBoost
+- Handle class imbalance using resampling techniques
+- Perform feature selection and scaling
+- Hyperparameter tuning for improved performance
+
+---
+
+## 📬 Contact
+**Ailuri Amardeep Reddy**  
+- GitHub: https://github.com/AiluriAmardeepReddy  
+- LinkedIn: https://linkedin.com/in/amardeep-reddy-ailuri-814908281  
+
+---
+
+⭐ If you find this project useful, feel free to explore or provide feedback.
